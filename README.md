@@ -1,2 +1,2 @@
-# CSV_SQL_DB
+# CSV file to SQL Database Table
 Creating Database Table from .csv file 
